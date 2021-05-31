@@ -28,6 +28,15 @@ Attribute Information:
 https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 #### How to run ML Model
+* Downlaod the repository and go the Model folder.
+* Now first install the python and then use the pip coomands to install all the recommended libraries 
+* To open the python the file Install the jupyter notebook usinhg the following command
+ > pip install jupyter-notebook
+* Then direct to model folder address using cmd and type
+ > Jupyter notebook
+* Then in the last run the code and in the end it would generate a pickle model which will be used for the API.
+
+
 
 ### Django Project API
 #### How to Run the project
