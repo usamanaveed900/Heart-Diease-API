@@ -24,6 +24,9 @@ Attribute Information:
 * thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 * The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
+#### Dataset Link
+https://www.kaggle.com/johnsmith88/heart-disease-dataset
+
 #### How to run ML Model
 
 ### Django Project API
