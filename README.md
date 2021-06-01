@@ -41,6 +41,8 @@ This django project has simple form which gets data from the user and sends it t
 #### How to Run the project
 To run this project direct into 'ModelAPI' using cmd and then type the following coomands
  > python manage.py makemigrations
+
  > python manage.py migrate
+
  > python manage.py runserver
 
