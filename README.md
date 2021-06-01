@@ -36,8 +36,11 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
  > Jupyter notebook
 * Then in the last run the code and in the end it would generate a pickle model which will be used for the API.
 
-
-
 ### Django Project API
+This django project has simple form which gets data from the user and sends it to the pickle model to get the results from the model.
 #### How to Run the project
+To run this project direct into 'ModelAPI' using cmd and then type the following coomands
+ > python manage.py makemigrations
+ > python manage.py migrate
+ > python manage.py runserver
 
