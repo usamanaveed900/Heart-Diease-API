@@ -46,3 +46,8 @@ To run this project direct into 'ModelAPI' using cmd and then type the following
 
  > python manage.py runserver
 
+### Authors
+
+* **Usama Naveed** -https://github.com/usamanaveed900)
+
+See also the list of [Projects] (https://github.com/usamanaveed900?tab=repositories) i have woked on.
